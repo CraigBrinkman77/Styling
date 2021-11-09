@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    text-align: left;
+    color: lightseagreen;
+    font-family: cursive;
+}
+h2 {
+    background-color: purple;
+    text-align: center;
+    color: linen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+h3 {
+    background-color: lightblue;
+    text-align: right;
+    color: black;
+    text-decoration: underline;
+}
+span {
+    color: linen;
+}
